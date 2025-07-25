@@ -1,2 +1,3 @@
 git add -A :To add all files in Local workspace to staging area
 git remote -v:To check any remote repository is added and get its name
+git push var master: To push contents to remote repository

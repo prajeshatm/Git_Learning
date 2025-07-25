@@ -1,0 +1,1 @@
+git add -A :To add all files in Local workspace to staging area
